@@ -20,8 +20,6 @@ public class SecondFragment extends Fragment {
         binding = FragmentSecondBinding.inflate(getLayoutInflater());
         View view = binding.getRoot();
 
-
-
         return view;
     }
 }

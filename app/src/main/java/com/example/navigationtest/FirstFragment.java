@@ -19,10 +19,6 @@ public class FirstFragment extends Fragment {
                              Bundle savedInstanceState) {
         binding = FragmentFirstBinding.inflate(getLayoutInflater());
         View view = binding.getRoot();
-
-
-
-
         return view;
     }
 }
